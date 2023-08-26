@@ -2,3 +2,6 @@ baseURL = 'https://devnuggets.dev'
 languageCode = 'en-us'
 title = 'Dev Nuggets Blog'
 theme = 'paper'
+
+[params]
+  github = 'nicosan001'
