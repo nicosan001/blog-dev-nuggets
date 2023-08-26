@@ -1,4 +1,4 @@
-baseURL = 'https://nicosan001.github.io/devnuggets.github.io/'
+baseURL = 'https://devnuggets.dev'
 languageCode = 'en-us'
 title = 'Dev Nuggets Blog'
 theme = 'paper'
