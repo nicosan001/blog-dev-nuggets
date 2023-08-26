@@ -1,0 +1,7 @@
+[submodule "dev-nuggets-blog/themes/paper"]
+	path = dev-nuggets-blog/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "dev-nuggets-blog/public"]
+	path = dev-nuggets-blog/public
+	url = git@github.com:nicosan001/devnuggets.github.io.git
+	branch = main

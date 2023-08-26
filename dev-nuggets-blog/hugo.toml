@@ -1,0 +1,4 @@
+baseURL = 'https://devnuggets.github.io/'
+languageCode = 'en-us'
+title = 'Dev Nuggets Blog'
+theme = 'paper'
