@@ -5,7 +5,7 @@ date: 2023-08-25T22:55:08-06:00
 
 # Testing some text
 This is not what I wanted. jk.
-{{< smallimg src="images/doggy-dev.jpg" >}}
+{{< img src="images/doggy-dev.jpg" >}}
 
 # Achillis tantique eodem
 ## Venias ora excutit uteri qui Xanthique sustulit
